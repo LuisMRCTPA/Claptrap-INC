@@ -24,7 +24,7 @@ function registerUser(event) {
   
     alert('Usuario registrado exitosamente');
     document.getElementById('register-form').reset();
-    window.location.href = '../HTML/login.html';
+    window.location.href = '../html/login.html';
   }
  
    // Agregar los event listeners en los formularios
