@@ -12,7 +12,7 @@
       alert(`Bienvenido, administrador`);
       console.log("Administrador logueado");
       localStorage.setItem('loggedInUser', 'admin');  
-      window.location.href = '../HTML/admin.html';  
+      window.location.href = '../html/admin.html';  
       return;
     }
   
