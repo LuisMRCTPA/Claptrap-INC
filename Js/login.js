@@ -22,7 +22,7 @@
     if (user) {
       alert(`Bienvenido, ${user.username}`);
       localStorage.setItem('loggedInUser', username);  
-      window.location.href = 'index.html'; 
+      window.location.href = '../index.html'; 
     } else {
       alert('Usuario o contraseña incorrectos');
     }
