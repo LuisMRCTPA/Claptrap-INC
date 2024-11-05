@@ -21,6 +21,9 @@ body {
         background-position: 0% 50%;
     }
   }
+main {
+  padding: 20px;
+}
 header {
 background-color: #1625a7;
 color: white;
@@ -155,8 +158,6 @@ footer {
     padding-top: 20px;
     max-width: 2000px;
     height: 300px;
-    position: absolute;
-    bottom: 0;
     }
     .footerdiv{
     padding: 20px;
