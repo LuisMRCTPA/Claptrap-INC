@@ -153,6 +153,8 @@ footer {
     padding-top: 20px;
     max-width: 2000px;
     height: 300px;
+    position: absolute;
+    bottom: 0;
     }
     .footerdiv{
     padding: 20px;
