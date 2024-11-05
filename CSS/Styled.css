@@ -403,3 +403,21 @@ button:hover {
   .hamburger.active {
     content: "\2715"; 
   }
+button {
+  padding: 10px 20px;
+  background-color: #5b54c3;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #b1d7b9;
+}
+.dark-mode {
+  --background-color: #181818;
+  --text-color: #f1f1f1;
+  --header-background-color: #0a0a0a;
+  --footer-background-color: #0a0a0a;
+  --card-background-color: #252525;
+}
